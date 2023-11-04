@@ -1,0 +1,125 @@
+//========================================================================================================================================================
+// Footer
+.footer {
+	gap: 120px;
+	display: grid;
+	margin-top: 150px;
+	padding: 40px 60px;
+	background-color: #22252e;
+	@media (max-width: 991.98px) {
+		gap: 40px;
+		margin-top: 100px;
+		padding: 40px 20px;
+	}
+	@media (max-width: 767.98px) {
+		margin-top: 70px;
+	}
+	@media (max-width: 479.98px) {
+		padding: 20px 10px;
+	}
+	&__main {
+	}
+	&__copy {
+	}
+}
+.main-footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	&__logo {
+	}
+	&__list {
+		gap: 60px;
+		display: flex;
+		align-items: center;
+		@media (max-width: 991.98px) {
+			gap: 30px;
+		}
+		@media (max-width: 767.98px) {
+			display: none;
+		}
+	}
+	&__item {
+	}
+	&__link {
+		display: flex;
+		color: #ffffff;
+		font-size: 16px;
+		font-weight: 700;
+		line-height: normal;
+		@media (any-hover: hover) {
+			&:hover {
+				color: #5174dd;
+			}
+		}
+	}
+
+	&__buttons {
+		gap: 10px;
+		display: flex;
+		align-items: center;
+	}
+	&__button {
+		&:nth-child(2),
+		&:nth-child(3) {
+			@media (min-width: 767.98px) {
+				display: none;
+			}
+		}
+		@media (max-width: 767.98px) {
+			&:nth-child(1) {
+				display: none;
+			}
+		}
+		@media (max-width: 479.98px) {
+			&:nth-child(1) {
+				display: block;
+			}
+			&:nth-child(2),
+			&:nth-child(3) {
+				display: none;
+			}
+		}
+	}
+}
+.copy-footer {
+	gap: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	&__main {
+		gap: 5px;
+		display: grid;
+		color: #ffffff;
+		font-size: 16px;
+		line-height: normal;
+		a {
+			display: inline-flex;
+			@media (any-hover: hover) {
+				&:hover {
+					color: #5174dd;
+				}
+			}
+		}
+		span {
+			opacity: 0.3;
+		}
+	}
+	&__socials {
+		gap: 40px;
+		display: flex;
+		align-items: center;
+		@media (max-width: 479.98px) {
+			gap: 20px;
+		}
+	}
+	&__social {
+		transition: opacity 0.3s ease 0s;
+		@media (any-hover: hover) {
+			&:hover {
+				opacity: 0.3;
+			}
+		}
+	}
+}
+//========================================================================================================================================================
