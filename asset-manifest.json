@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/fly-by-metrics/static/css/main.27dda6dd.css",
+    "main.js": "/fly-by-metrics/static/js/main.aca9370f.js",
+    "static/media/main-image.png": "/fly-by-metrics/static/media/main-image.1755c8a4aad29368f5f9.png",
+    "static/media/01.png": "/fly-by-metrics/static/media/01.2fecaf7ff32dcf4b36fe.png",
+    "static/media/02.png": "/fly-by-metrics/static/media/02.e014f949a7e1a6e323e3.png",
+    "static/media/03.png": "/fly-by-metrics/static/media/03.61890a8d468009af2997.png",
+    "static/media/04.png": "/fly-by-metrics/static/media/04.b605493ce7abbf443d00.png",
+    "static/media/04.svg": "/fly-by-metrics/static/media/04.b89272226681d82abb2084c672d3ea6d.svg",
+    "static/media/logo.svg": "/fly-by-metrics/static/media/logo.9b657de26e3aad8c68a7156926a00c40.svg",
+    "static/media/02.svg": "/fly-by-metrics/static/media/02.76ed7bf531278be7c6385bd863990c4f.svg",
+    "static/media/01.svg": "/fly-by-metrics/static/media/01.c28b4a3301cca8190e24d33c95a97755.svg",
+    "static/media/03.svg": "/fly-by-metrics/static/media/03.f1afafedb923e9aacf4fa398a081c742.svg",
+    "static/media/vk-b.svg": "/fly-by-metrics/static/media/vk-b.7afb17608ea42840dfadd8cf1318bf64.svg",
+    "static/media/vk.svg": "/fly-by-metrics/static/media/vk.daf0dda405430a3c1d74aa90175acc73.svg",
+    "static/media/ok.svg": "/fly-by-metrics/static/media/ok.54611721386c2edbe3c4da91c23f6e26.svg",
+    "static/media/tg-b.svg": "/fly-by-metrics/static/media/tg-b.baa2311194377e8e38506bf7bfba6542.svg",
+    "static/media/tg.svg": "/fly-by-metrics/static/media/tg.b41f0bf5a8d35e455114deae76fe7aa8.svg",
+    "static/media/ok-b.svg": "/fly-by-metrics/static/media/ok-b.e3bc3028ef4cb1d0f81254dc471b820f.svg",
+    "static/media/bird.svg": "/fly-by-metrics/static/media/bird.6ba150e16ab6ebd13fbeaca764d04769.svg",
+    "static/media/user.svg": "/fly-by-metrics/static/media/user.841e1caaaead23c5615743acced104c7.svg",
+    "index.html": "/fly-by-metrics/index.html",
+    "static/media/cancel.svg": "/fly-by-metrics/static/media/cancel.653c4c700b1d374f5264f4a6b4cbcaf7.svg",
+    "static/media/correct.svg": "/fly-by-metrics/static/media/correct.8709d1bfcf751dc3c57e982943beaade.svg",
+    "static/media/arrow-blue.svg": "/fly-by-metrics/static/media/arrow-blue.3239c1cda42b9b8645652be8e6984326.svg",
+    "static/media/arrow-white.svg": "/fly-by-metrics/static/media/arrow-white.e32568de150f57354169f309fe218d66.svg",
+    "main.27dda6dd.css.map": "/fly-by-metrics/static/css/main.27dda6dd.css.map",
+    "main.aca9370f.js.map": "/fly-by-metrics/static/js/main.aca9370f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27dda6dd.css",
+    "static/js/main.aca9370f.js"
+  ]
+}
