@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fly-by-metrics/static/css/main.27dda6dd.css",
-    "main.js": "/fly-by-metrics/static/js/main.aca9370f.js",
+    "main.css": "/fly-by-metrics/static/css/main.791a3548.css",
+    "main.js": "/fly-by-metrics/static/js/main.20333963.js",
     "static/media/main-image.png": "/fly-by-metrics/static/media/main-image.1755c8a4aad29368f5f9.png",
     "static/media/01.png": "/fly-by-metrics/static/media/01.2fecaf7ff32dcf4b36fe.png",
     "static/media/02.png": "/fly-by-metrics/static/media/02.e014f949a7e1a6e323e3.png",
@@ -25,11 +25,11 @@
     "static/media/correct.svg": "/fly-by-metrics/static/media/correct.8709d1bfcf751dc3c57e982943beaade.svg",
     "static/media/arrow-blue.svg": "/fly-by-metrics/static/media/arrow-blue.3239c1cda42b9b8645652be8e6984326.svg",
     "static/media/arrow-white.svg": "/fly-by-metrics/static/media/arrow-white.e32568de150f57354169f309fe218d66.svg",
-    "main.27dda6dd.css.map": "/fly-by-metrics/static/css/main.27dda6dd.css.map",
-    "main.aca9370f.js.map": "/fly-by-metrics/static/js/main.aca9370f.js.map"
+    "main.791a3548.css.map": "/fly-by-metrics/static/css/main.791a3548.css.map",
+    "main.20333963.js.map": "/fly-by-metrics/static/js/main.20333963.js.map"
   },
   "entrypoints": [
-    "static/css/main.27dda6dd.css",
-    "static/js/main.aca9370f.js"
+    "static/css/main.791a3548.css",
+    "static/js/main.20333963.js"
   ]
 }
