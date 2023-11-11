@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fly-by-metrics/static/css/main.791a3548.css",
-    "main.js": "/fly-by-metrics/static/js/main.20333963.js",
+    "main.css": "/fly-by-metrics/static/css/main.177c769e.css",
+    "main.js": "/fly-by-metrics/static/js/main.587d36ba.js",
     "static/media/main-image.png": "/fly-by-metrics/static/media/main-image.1755c8a4aad29368f5f9.png",
     "static/media/01.png": "/fly-by-metrics/static/media/01.2fecaf7ff32dcf4b36fe.png",
-    "static/media/02.png": "/fly-by-metrics/static/media/02.e014f949a7e1a6e323e3.png",
+    "static/media/02.png": "/fly-by-metrics/static/media/02.991c31fc055c44d7eef4.png",
     "static/media/03.png": "/fly-by-metrics/static/media/03.61890a8d468009af2997.png",
     "static/media/04.png": "/fly-by-metrics/static/media/04.b605493ce7abbf443d00.png",
     "static/media/04.svg": "/fly-by-metrics/static/media/04.b89272226681d82abb2084c672d3ea6d.svg",
@@ -25,11 +25,11 @@
     "static/media/correct.svg": "/fly-by-metrics/static/media/correct.8709d1bfcf751dc3c57e982943beaade.svg",
     "static/media/arrow-blue.svg": "/fly-by-metrics/static/media/arrow-blue.3239c1cda42b9b8645652be8e6984326.svg",
     "static/media/arrow-white.svg": "/fly-by-metrics/static/media/arrow-white.e32568de150f57354169f309fe218d66.svg",
-    "main.791a3548.css.map": "/fly-by-metrics/static/css/main.791a3548.css.map",
-    "main.20333963.js.map": "/fly-by-metrics/static/js/main.20333963.js.map"
+    "main.177c769e.css.map": "/fly-by-metrics/static/css/main.177c769e.css.map",
+    "main.587d36ba.js.map": "/fly-by-metrics/static/js/main.587d36ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.791a3548.css",
-    "static/js/main.20333963.js"
+    "static/css/main.177c769e.css",
+    "static/js/main.587d36ba.js"
   ]
 }
